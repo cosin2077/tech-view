@@ -3,18 +3,18 @@
 google chrome extension and a very light tech info site build with vue+muse-ui  
 基于vue+muse-ui+readhub的展api做的一款非常简单的谷歌扩工具,用于查看科技、媒体、区块链相关新闻.  
 
-####下载：
+#### 下载：
 [扩展程序谷歌商店](https://chrome.google.com/webstore/detail/tech-view/mdjdpkdjblhjgpcglocodphajghbjdfn)  
 
-####网址:  
+#### 网址:  
 [Tech-view](http://111.231.70.202/)
 
-####截图
+#### 截图
 ![shot1]("./shots/banner1.png")  
 
 ![shot2]("./shots/shot1.png")  
 
-####开始:
+#### 开始:
 <code>npm install</code>  
 <code>npm run dev</code> 
 
