@@ -10,9 +10,9 @@ google chrome extension and a very light tech info site build with vue+muse-ui
 [Tech-view](http://111.231.70.202/)
 
 #### 截图
-![shot1]("https://github.com/conanskyforce/tech-view/blob/master/shots/banner1.png")  
+![shot1]("https://github.com/conanskyforce/tech-view/blob/master/shots/banner1.png?raw=true")  
 
-![shot2]("https://github.com/conanskyforce/tech-view/blob/master/shots/shot1.png")  
+![shot2]("https://github.com/conanskyforce/tech-view/blob/master/shots/shot1.png?raw=true")  
 
 
 #### 开始:
@@ -22,7 +22,7 @@ google chrome extension and a very light tech info site build with vue+muse-ui
 #### 生成静态网页:  
 <code>npm run build</code>  
 
-#### ips:  
+#### Tips:  
 在项目开发过程中遇到3点值得注意的地方,  
 1.如果不考虑兼容性,flex布局真是个不错的选择,  
 2.-webkit-overflow-scrolling : touch;当滚动内容不是在body上的时候，增加快速滚动和回弹效果,  
