@@ -10,9 +10,9 @@ google chrome extension and a very light tech info site build with vue+muse-ui
 [Tech-view](http://111.231.70.202/)
 
 #### 截图
-![shot1]("https://github.com/conanskyforce/tech-view/raw/master/shots/banner1.png")  
+![shot1]("https://raw.githubusercontent.com/conanskyforce/tech-view/master/shots/banner1.png")  
 
-![shot2]("https://github.com/conanskyforce/tech-view/raw/master/shots/shot1.png")  
+![shot2]("https://raw.githubusercontent.com/conanskyforce/tech-view/master/shots/shot1.png")  
 
 
 #### 开始:
